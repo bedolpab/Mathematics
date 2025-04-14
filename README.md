@@ -1,9 +1,21 @@
-# Mathematics  
+# Mathematics
 
-This repository serves as a collection of code snippets, examples, and implementations for various mathematical concepts, written in **C++** and **Python**. It includes coursework material from mathematics classes as well as other examples of mathematical concepts.
+A collection of C++ and Python code implementing various mathematical concepts covered in the math courses I am taking or have taken. This includes coursework examples.
+## Topics Covered
 
-## Topics Overview  
+*   **Numerical Analysis:**
+    *   Function Approximation (Taylor series for `sin(x)`, `e^x`) - C++
+    *   Numerical Integration (Trapezoidal Rule, Simpson's Rule, Gaussian Quadrature) - Python
+*   **Abstract Algebra:**
+    *   Finding Generators for Cyclic Subgroups (e.g., Z_n) - Python
 
-| Topic             | Languages Used | # of Functions |
-|-------------------|----------------|----------------|
-| Numerical Analysis| C++, Python    | 2              |
+## Languages
+
+*   C++
+*   Python (using libraries like `numpy`, `pandas`, `matplotlib`)
+
+## Usage
+
+Navigate into the relevant directories or files. Code may require compilation (C++) or specific Python libraries (check imports). Individual files often contain usage examples or comments.
+
+*(Feel free to add more topics or details as your repository grows.)*
