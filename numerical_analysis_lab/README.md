@@ -33,3 +33,4 @@ $ jupyter lab
 ### Run the Notebook
 After Jupyter Lab opens in your browser, navigate to the notebook in the project directory and run all the cells. The code should run without errors.
 
+![Image](https://github.com/user-attachments/assets/4cd10179-4c60-46ee-a588-2558368ed0e2)
